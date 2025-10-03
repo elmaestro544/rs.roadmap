@@ -1,0 +1,5 @@
+{
+  "name": "SciGenius - AI Research Copilot",
+  "description": "An AI-powered research assistant similar to SciSpace, designed to help users comprehend academic papers, find related literature, and streamline their research workflow. It supports both English and Arabic.",
+  "requestFramePermissions": []
+}

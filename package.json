@@ -1,0 +1,30 @@
+{
+  "name": "scigenius-ai-research-copilot",
+  "version": "1.0.0",
+  "description": "An AI-powered research assistant similar to SciSpace, designed to help users comprehend academic papers, find related literature, and streamline their research workflow. It supports both English and Arabic.",
+  "private": true,
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git"
+  },
+  "keywords": [
+    "ai",
+    "react",
+    "gemini",
+    "research",
+    "typescript",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY#readme"
+}
